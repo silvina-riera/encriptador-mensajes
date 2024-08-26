@@ -80,6 +80,7 @@ header img {
     border-radius: 24px;
     border: 1px solid var(--dark-blue);
     font-weight: 600;
+    cursor: pointer;
 }
 
 .form__btn--secondary {
